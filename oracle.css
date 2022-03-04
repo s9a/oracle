@@ -1,0 +1,23 @@
+:root {
+  --dew-slick: #bae;
+  --dew-slime: #111;
+  --dew-solar: #ddd;
+  --dew-lunar: #111;
+}
+
+html {
+  font-size: calc(1em + 1vw);
+}
+
+body {
+  margin: 0;
+}
+
+h2 {
+  display: inline;
+}
+
+article {
+  margin-block-end: 0rem;
+  padding: 1ch;
+}
